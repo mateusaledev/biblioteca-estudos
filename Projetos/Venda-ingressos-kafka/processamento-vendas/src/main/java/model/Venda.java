@@ -10,7 +10,6 @@ public class Venda {
     private BigDecimal valorTotal;
     private String status;
 
-
     public Long getOperacao() {
         return operacao;
     }

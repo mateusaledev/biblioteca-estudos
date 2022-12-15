@@ -24,7 +24,6 @@ public class Venda {
 
     }
 
-
     public Long getOperacao() {
         return operacao;
     }

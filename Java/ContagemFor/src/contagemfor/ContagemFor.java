@@ -18,8 +18,5 @@ public class ContagemFor {
         for (int cc=0; cc<=1000; cc+=10) {
             System.out.println(cc);
         }
-        
     }
-    
-    
 }
