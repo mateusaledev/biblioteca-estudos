@@ -1,0 +1,47 @@
+
+F
+java:S3740Ä"/Provide the parametrized type for this generic.(ŞæÜ½
+F
+java:S3740Ä"/Provide the parametrized type for this generic.(ŞæÜ½
+]
+java:S1192/"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(ò…¼¯
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞæÜ½
+C
+java:S1604;"(Make this anonymous inner class a lambda(…Ğ‹ƒşÿÿÿÿ
+>
+java:S1604D"(Make this anonymous inner class a lambda(”‚è
+C
+java:S1604M"(Make this anonymous inner class a lambda(öìÈøÿÿÿÿ
+>
+java:S1604e"(Make this anonymous inner class a lambda(°Á¸Å
+D
+java:S1604ê"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+Ë
+java:S1598"´This file "TelaContador.java" should be located in "Classes" directory, not in "C:\Users\malex\OneDrive\Ãrea de Trabalho\Projetos\biblioteca-estudos\Java\ContadorList\src\Classe".(¿ÀŠ­
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+t
+java:S1450ò"XRemove the "btnContar" field and declare it as a local variable in the relevant methods.(åÜúúÿÿÿÿ
+r
+java:S1450ó"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450ô"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450õ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+w
+java:S1450ö"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+A
+java:S1172°"*Remove this unused method parameter "evt".(İÏ˜È
+F
+java:S1172µ"*Remove this unused method parameter "evt".(‡Ó ÿúÿÿÿÿ
+F
+java:S1172º"*Remove this unused method parameter "evt".(¤™î’ıÿÿÿÿ
+A
+java:S1172¿"*Remove this unused method parameter "evt".(Õ¥İ
+F
+java:S1197Ğ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147ß"ECombine this catch with the one at line 221, which has the same body.(¨¦Š½
+\
+java:S2147á"ECombine this catch with the one at line 221, which has the same body.(ã€ 
+[
+java:S2147ã"ECombine this catch with the one at line 221, which has the same body.(ñÎ¯%

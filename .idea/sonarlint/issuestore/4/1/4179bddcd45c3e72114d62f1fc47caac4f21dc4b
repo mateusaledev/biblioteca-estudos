@@ -1,0 +1,40 @@
+
+l
+java:S11921"QDefine a constant instead of duplicating this literal "Times New Roman" 12 times.(„±Åæùÿÿÿÿ
+C
+java:S1604c"(Make this anonymous inner class a lambda(Å›˜øøÿÿÿÿ
+C
+java:S1604n"(Make this anonymous inner class a lambda(æƒœùúÿÿÿÿ
+>
+java:S1604y"(Make this anonymous inner class a lambda(§½¼Ë
+?
+java:S1604"(Make this anonymous inner class a lambda(ÕÆ«™
+D
+java:S1604œ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º×¯ö
+m
+java:S1450¤"WRemove the "btnVerif" field and declare it as a local variable in the relevant methods.(£‡ä
+r
+java:S1450¥"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450¦"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450§"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+r
+java:S1450¨"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+F
+java:S1172ß"*Remove this unused method parameter "evt".(ƒñüøÿÿÿÿ
+A
+java:S1172ô"*Remove this unused method parameter "evt".(ûíƒ
+A
+java:S1172ø"*Remove this unused method parameter "evt".(ÛòÉõ
+A
+java:S1172ü"*Remove this unused method parameter "evt".(ÌË¨
+F
+java:S1197ƒ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147’"ECombine this catch with the one at line 272, which has the same body.(¨¦Š½
+\
+java:S2147”"ECombine this catch with the one at line 272, which has the same body.(ã€ 
+[
+java:S2147–"ECombine this catch with the one at line 272, which has the same body.(ñÎ¯%

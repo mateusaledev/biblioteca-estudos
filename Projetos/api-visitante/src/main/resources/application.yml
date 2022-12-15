@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    drive-class-name: org.h2.Driver
+    url: jdbc:h2:mem:visitantes
+    username: sa
+    passaword:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enable: true
+      path: /banco
+  sql:
+    init:
+      plataform: h2

@@ -1,0 +1,21 @@
+
+C
+java:S1604)"(Make this anonymous inner class a lambda(‡ê¹Ğüÿÿÿÿ
+D
+java:S1604€"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·‹í 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÓÊà
+m
+java:S1450ˆ"VRemove the "btnVoto" field and declare it as a local variable in the relevant methods.(¸´¤
+r
+java:S1450‰"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+@
+java:S1172U"*Remove this unused method parameter "evt".(‘ûäÂ
+E
+java:S1197g"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+[
+java:S2147v"ECombine this catch with the one at line 116, which has the same body.(¨¦Š½
+[
+java:S2147x"ECombine this catch with the one at line 116, which has the same body.(ã€ 
+Z
+java:S2147z"ECombine this catch with the one at line 116, which has the same body.(ñÎ¯%
