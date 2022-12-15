@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Venda-ingressos-kafka.iml" filepath="$PROJECT_DIR$/.idea/Venda-ingressos-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processamento-vendas/processamento-vendas.iml" filepath="$PROJECT_DIR$/processamento-vendas/processamento-vendas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/venda-ingressos/venda-ingressos.iml" filepath="$PROJECT_DIR$/venda-ingressos/venda-ingressos.iml" />
+    </modules>
+  </component>
+</project>
